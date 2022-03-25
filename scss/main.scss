@@ -1,0 +1,33 @@
+$primary-one: hsl(215, 51%, 70%);
+$primary-two: hsl(178, 100%, 50%);
+$main-bg: hsl(217, 54%, 11%);
+$card-bg: hsl(216, 50%, 16%);
+$line: hsl(215, 32%, 27%);
+$white: hsl(0, 0%, 100%);
+$main-font: 'Outfit', sans-serif;
+
+html {
+	font-size: 62.5%;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 1.8rem;
+}
+
+
+
+
+// ------
+// MEDIA
+// ------
+
+@media (min-width: 376px) {
+}
